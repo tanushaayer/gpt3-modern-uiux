@@ -1,3 +1,1 @@
-# gpt3-modernUIUX
-
-This is a react app for gpt3.
+#gpt3 modern UI/UX using React
